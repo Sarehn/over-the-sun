@@ -1,7 +1,7 @@
 import Phaser from "phaser"
-import space from "./assets/skies/space3.png";
-import logo from "./assets/sprites/phaser3-logo.png";
-import particle from "./assets/particles/red.png";
+import space from "../assets/skies/space3.png";
+import logo from "../assets/sprites/phaser3-logo.png";
+import particle from "../assets/particles/red.png";
 
 export const width = window.innerWidth;
 export const height = window.innerHeight;

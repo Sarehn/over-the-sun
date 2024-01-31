@@ -1,5 +1,5 @@
 import React from 'react';
-import PhaserGame from './PhaserGame';
+import PhaserGame from './core/PhaserGame';
 
 const App: React.FC = () => {
   return (

@@ -1,5 +1,5 @@
-import Scene from "./Scene"
-import { width, height } from "./Scene";
+import Scene from "../scenes/Scene"
+import { width, height } from "../scenes/Scene";
 
 
 export const config: Phaser.Types.Core.GameConfig = {
